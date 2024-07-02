@@ -14,5 +14,5 @@
 # Day 2
 - Merging in git
 - Introduction to AWS 
-- merge conflicts in git
+- merge conflicts Resolving in git
   
